@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.eltek'
 VERSION = '1.0'
 AUTHOR = 'Alexander Vorobiyov devnull@rzpost.ru'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.eltek']
 INSTALL_REQUIRES = []
